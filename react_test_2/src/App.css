@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.error {
+  color: red;
+  padding: 2px;
+  margin: 10px;
+}
+.right-section {
+  display: inline;
+  padding: 16px;
+  text-align: center;
+  margin: 16px;
+  border: 1px solid black;
+}
